@@ -18,25 +18,32 @@ I have always been interested in learning code and love learning new skills. Pri
 
 # My Tech Stack 
 
-### **Frontend**
+### LANGUAGES
 
-![HTML5](images/html.svg) ![CSS3](images/css.svg) ![JS](images/JavaScript.svg) ![JS](images/bootstrap.svg) ![JS](images/json.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="HTML logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="CSS logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50px" height="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50px" height="50px" />
 
-### **Backend**
+## FRAMEWORKS AND LIBRARIES
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap logo" height="50px" width="50px" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django logo" width="50px" height="50px" />
 
-![Python](images/python.svg) ![Flask](images/flask.svg) ![Jinja](images/jinja.svg) ![Django](images/django.svg) ![Stripe](images/stripe.svg)
 
 ### **Database**
 
-![MongoDB](images/mongodb.svg) ![MySQL](images/mysql.svg) ![PostgreSQL](images/postgresql.svg)
+![MongoDB] ![MySQL] ![PostgreSQL]
 
 ### **Version Control**
 
-![Git](images/git.svg) ![Gitpod](images/gitpod.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub logo" width="50px" height="50px" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" alt="Git logo" width="50px" height="50px" />
+
 
 ### **Development and Deployment**
 
-![Heroku](images/heroku.svg) ![GitHub](images/github.svg) ![Travis CI](images/travisci.svg) ![AWS](images/aws.svg)  ![GitHub Pages](images/githubpages.svg)
+<img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku logo" width="50px" height="50px" />
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="GitHub logo" width="50px" height="50px" />
+ 
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS logo" width="50px" height="50px" />
 
 
 ### **Future Learning**
