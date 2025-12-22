@@ -1,7 +1,6 @@
 ![Banner Image](images/coding-image.jpg)
 
-# Wisam Altaqaly, Junior Software Developer
-
+# Wisam Altaqaly
 <p align="center">
     <img src="">
 </p>
