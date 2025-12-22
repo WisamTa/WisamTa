@@ -12,9 +12,11 @@ Welcome to my profile page.
 
 I'm Wisam,
 
-Having completed a Full Stack Software Developer course from [Code Institute](https://codeinstitute.net/) and waiting for the result of my final project. 
+I’m a DevOps Engineer focused on Kubernetes and cloud-native platforms, with hands-on experience in containerization, CI/CD, infrastructure automation, and operating applications in production environments.
 
-I have always been interested in learning code and love learning new skills. Prior to commencing the Full Stack Software Developer course in May 2021, I had done some coding a few years back, which consisted of just some basic HTML and CSS. In 2021, I enrolled in the 5 day coding challenge with [Code Institute](https://codeinstitute.net/) and loved every single moment of it, it was then that I decided it was time for a career change.
+I have a solid full-stack development background, which helps me collaborate effectively with application teams and design reliable deployment and operational workflows. I’m comfortable working across the full delivery lifecycle — from development and configuration to deployment, monitoring, and ongoing operations.
+
+I’m data-driven, adaptable, and continuously improving my skills in cloud infrastructure, platform engineering, and scalable systems.
 
 # My Tech Stack 
 
